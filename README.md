@@ -217,4 +217,5 @@ This project demonstrates a complete introductory sales forecasting workflow, fr
 
 ## Author
 
-Add your name, GitHub profile, and relevant internship details here.
+Name: Haneefa Riham
+GitHub profile: haneefa96
